@@ -4,10 +4,9 @@
 #include <algorithm>
 #include <cmath>
 
-
 using namespace std;
 
-#define int long long
+#define ll long long
 #define arr array
 #define endl "\n"
 #define pb push_back
