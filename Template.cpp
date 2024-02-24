@@ -16,7 +16,6 @@ using namespace std;
 #define all(x) (x).begin(), (x).end()
 
 const int MOD = 1e9 + 7;
-const int INF = LLONG_MAX;
 
 void solve() {
 
