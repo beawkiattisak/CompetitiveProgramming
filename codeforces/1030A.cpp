@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-   	cin.tie(nullptr)->ios::sync_with_stdio(false);
+    cin.tie(nullptr)->ios::sync_with_stdio(false);
 
     int t, n; cin >> t;
     bool flag = false;
